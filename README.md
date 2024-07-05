@@ -49,20 +49,13 @@
 ## 🤝 Connect With Me:
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/ammar-ageeza-9031891b8/" target="_blank">
+    <a href="https://www.linkedin.com/in/alaa-gamal-25aa131b8/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
     </a>
-  <a href="mailto:ammarfathy516@gmail.com">
+  <a href="mailto:oohhpp9080@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-        <a href="https://mostaql.com/u/ammarageeza/portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logoColor=white" />
-  </a>
-    <a href="https://youtube.com/@ammarageeza91?si=bHNizIHn9dIL3jX7">
-    <img src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-     </a>
-     <a href="https://t.me/ammarageeza">
+  <a href="https://t.me/Jimmykn">
     <img src="https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </div>
@@ -75,10 +68,10 @@
 
 ## 💜 Views and Followers:
 
-<a href="https://github.com/AmmarAgeeza/github-profile-views-counter">
+<a href="https://github.com/gemmy7/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=AmmarAgeeza">
 </a>
-<a href="https://github.com/AmmarAgeeza?tab=followers"><img src="https://img.shields.io/github/followers/AmmarAgeeza?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/gemmy7?tab=followers"><img src="https://img.shields.io/github/followers/AmmarAgeeza?label=Followers&style=social" alt="GitHub Badge"></a>
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+❤️;+Shoot+me+a+message+on+Linkedin!;I'm+Long+Life+Learner">
 </h3>
