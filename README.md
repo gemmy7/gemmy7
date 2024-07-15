@@ -34,6 +34,7 @@
 <br>
 
 ## 📊 My Stats:
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gemmy7&theme=algolia" alt="gemmy7" /></p>
 <a href="https://github.com/gemmy7/github-readme-stats"><img alt="gemmy7's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gemmy7&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 
